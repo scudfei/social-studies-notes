@@ -17,6 +17,12 @@ This repository contains comprehensive notes for Social Studies 10-1, focusing o
   - The Global Village concept
   - Positive vs. Negative aspects of each dimension
 
+- [Lesson 1.3: Historical Globalization](lesson-1.3-historical-globalization.md)
+  - Timeline from Ancient to Modern Era
+  - Major empires and civilizations
+  - Patterns in historical globalization
+  - Connection to modern globalization
+
 ## About These Notes
 These notes cover the key concepts, definitions, and critical thinking points from the Social Studies 10-1 curriculum, with a focus on understanding how globalization shapes our interconnected world.
 
@@ -28,12 +34,14 @@ These notes cover the key concepts, definitions, and critical thinking points fr
 - Communication technology and media influence
 - Transportation and the movement of goods/people
 - The concept of the "global village"
+- Historical patterns of globalization
 
 ## Study Tips
 - Focus on understanding both positive and negative aspects of each dimension
 - Consider how different forces of globalization interact with each other
 - Think critically about who benefits and who is disadvantaged by globalization
 - Remember that globalization is an ongoing process, not a destination
+- Connect historical patterns to modern globalization trends
 
 ---
 *Last Updated: September 2025*
