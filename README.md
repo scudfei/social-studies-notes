@@ -18,16 +18,27 @@ This repository contains comprehensive notes for Social Studies 10-1, focusing o
   - Positive vs. Negative aspects of each dimension
 
 - [Lesson 1.3: Historical Globalization](lesson-1.3-historical-globalization.md)
-  - Timeline from Ancient to Modern Era
-  - Major empires and civilizations
-  - Patterns in historical globalization
+  - Timeline from Renaissance to Modern Era
+  - Major periods of expansion
   - Connection to modern globalization
+
+- [Lesson 1.4: Mercantilism and European Colonization](lesson-1.4-mercantilism.md)
+  - Role of colonies in economic systems
+  - The Columbian Exchange
+  - European colonial powers
+  - Balance of trade concepts
+
+- [Lesson 1.5: Important Events Prior to 1492](lesson-1.5-european-worldviews.md)
+  - The Printing Press and its impacts
+  - European Imperialism vs Colonialism
+  - Columbus's legacy
+  - European motivations for expansion
 
 ## About These Notes
 These notes cover the key concepts, definitions, and critical thinking points from the Social Studies 10-1 curriculum, with a focus on understanding how globalization shapes our interconnected world.
 
 ## Key Themes
-- Economic globalization and trade
+- Economic globalization and trade systems
 - Political dimensions and international cooperation
 - Environmental concerns and global coordination
 - Social and cultural impacts
@@ -35,6 +46,8 @@ These notes cover the key concepts, definitions, and critical thinking points fr
 - Transportation and the movement of goods/people
 - The concept of the "global village"
 - Historical patterns of globalization
+- Mercantilism and colonial economics
+- European imperialism and its lasting effects
 
 ## Study Tips
 - Focus on understanding both positive and negative aspects of each dimension
@@ -42,6 +55,8 @@ These notes cover the key concepts, definitions, and critical thinking points fr
 - Think critically about who benefits and who is disadvantaged by globalization
 - Remember that globalization is an ongoing process, not a destination
 - Connect historical patterns to modern globalization trends
+- Understand the economic motivations behind colonialism and imperialism
+- Analyze how technological advances accelerated globalization
 
 ---
 *Last Updated: September 2025*
